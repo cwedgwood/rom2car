@@ -1,0 +1,6 @@
+*.car
+*.rom
+*~
+rom*
+rom2car
+local-test.sh
